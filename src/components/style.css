@@ -1,0 +1,21 @@
+.pagination  li{
+    font-size: 18px ;
+    padding: 5px 15px ;
+
+    cursor: pointer;
+    background-color: rgb(16, 152, 205); 
+    color: white;
+    border: 2px solid white;
+
+}
+
+ .pagination  li:hover{
+   color: blue;
+   background-color: white;
+}
+
+.nav li{
+    font-weight: bold;
+    cursor: pointer;
+}
+
